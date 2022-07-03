@@ -2786,7 +2786,7 @@ let capt = `⭔ Title: ${judul}
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                anu = `┌──⭓ *Group Menu*
+                anu = `┌──• *𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}linkgroup
 │⭔ ${prefix}ephemeral [option]
@@ -2810,9 +2810,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}cekvote
 │⭔ ${prefix}hapusvote
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Webzone Menu*
+┌──• *𝐖𝐄𝐁𝐙𝐎𝐍𝐄 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}playstore
 │⭔ ${prefix}gsmarena
@@ -2823,10 +2823,10 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}webtoons
 │⭔ ${prefix}drakor
 │
-└───────⭓
+└───────•
 
 
-┌──⭓ *Downloader Menu*
+┌──• *𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}tiktoknowm [url]
 │⭔ ${prefix}tiktokwm [url]
@@ -2844,9 +2844,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}joox [query]
 │⭔ ${prefix}soundcloud [url]
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Search Menu*
+┌──• *𝐒𝐄𝐀𝐑𝐂𝐇 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}play [query]
 │⭔ ${prefix}yts [query]
@@ -2859,9 +2859,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}ringtone [query]
 │⭔ ${prefix}stalk [option] [query]
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Random Menu*
+┌──• *𝐑𝐀𝐍𝐃𝐎𝐌 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}coffe
 │⭔ ${prefix}quotesanime
@@ -2881,9 +2881,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}trap (nsfw)
 │⭔ ${prefix}blowjob (nsfw)
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Text Pro Menu*
+┌──• *TEXT PRO MENU*
 │
 │⭔ ${prefix}3dchristmas
 │⭔ ${prefix}3ddeepsea
@@ -2917,9 +2917,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}blackpink
 │⭔ ${prefix}gluetext
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Photo Oxy Menu*
+┌──• *PHOTO OXY MENU*
 │
 │⭔ ${prefix}shadow
 │⭔ ${prefix}romantic
@@ -2934,9 +2934,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}harrypotter
 │⭔ ${prefix}retrolol
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Ephoto Menu*
+┌──• *EPHOTO MENU*
 │
 │⭔ ${prefix}ffcover
 │⭔ ${prefix}crossfire
@@ -2948,9 +2948,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}igcertificate
 │⭔ ${prefix}ytcertificate
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Fun Menu*
+┌──• *FUN MENU*
 │
 │⭔ ${prefix}simih
 │⭔ ${prefix}halah
@@ -2967,9 +2967,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}math [mode]
 │⭔ ${prefix}suitpvp [@tag]
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Primbon Menu*
+┌──• *PRIMBON MENU*
 │
 │⭔ ${prefix}nomorhoki
 │⭔ ${prefix}artimimpi
@@ -3002,9 +3002,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}zodiak
 │⭔ ${prefix}shio
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Convert Menu*
+┌──• *CONVERT MENU*
 │
 │⭔ ${prefix}attp
 │⭔ ${prefix}ttp
@@ -3025,9 +3025,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}styletext
 │⭔ ${prefix}smeme
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Main Menu*
+┌──• *MAIN MENU*
 │
 │⭔ ${prefix}ping
 │⭔ ${prefix}owner
@@ -3040,9 +3040,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}listonline
 │⭔ ${prefix}speedtest
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Database Menu*
+┌──• *DATABASE MENU*
 │
 │⭔ ${prefix}setcmd
 │⭔ ${prefix}listcmd
@@ -3053,18 +3053,18 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}getmsg
 │⭔ ${prefix}delmsg
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Anonymous Menu*
+┌──• *ANONYMOUS MENU*
 │
 │⭔ ${prefix}anonymous
 │⭔ ${prefix}start
 │⭔ ${prefix}next
 │⭔ ${prefix}keluar
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Islamic Menu*
+┌──• *ISLAMIC MENU*
 │
 │⭔ ${prefix}iqra
 │⭔ ${prefix}hadist
@@ -3072,9 +3072,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}juzamma
 │⭔ ${prefix}tafsirsurah
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Voice Changer*
+┌──• *VOICE CHANGER*
 │
 │⭔ ${prefix}bass
 │⭔ ${prefix}blown
@@ -3088,9 +3088,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}slow
 │⭔ ${prefix}tupai
 │
-└───────⭓
+└───────•
 
-┌──⭓ *Owner Menu*
+┌──• *𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔*
 │
 │⭔ ${prefix}react [emoji]
 │⭔ ${prefix}chat [option]
@@ -3104,7 +3104,7 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}setexif
 │⭔ ${prefix}setmenu [option]
 │
-└───────⭓`
+└───────•`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
