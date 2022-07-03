@@ -2788,27 +2788,27 @@ let capt = `⭔ Title: ${judul}
             case 'list': case 'menu': case 'help': case '?': {
                 anu = `┌──• *𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}linkgroup
-│⭔ ${prefix}ephemeral [option]
-│⭔ ${prefix}setppgc [image]
-│⭔ ${prefix}setname [text]
-│⭔ ${prefix}setdesc [text]
-│⭔ ${prefix}group [option]
-│⭔ ${prefix}editinfo [option]
-│⭔ ${prefix}add @user
-│⭔ ${prefix}kick @user
-│⭔ ${prefix}hidetag [text]
-│⭔ ${prefix}tagall [text]
-│⭔ ${prefix}totag [reply]
-│⭔ ${prefix}antilink [on/off]
-│⭔ ${prefix}mute [on/off]
-│⭔ ${prefix}promote @user
-│⭔ ${prefix}demote @user
-│⭔ ${prefix}vote [text]
-│⭔ ${prefix}devote
-│⭔ ${prefix}upvote
-│⭔ ${prefix}cekvote
-│⭔ ${prefix}hapusvote
+│২ ${prefix}linkgroup
+│২ ${prefix}ephemeral [option]
+│২ ${prefix}setppgc [image]
+│২ ${prefix}setname [text]
+│২ ${prefix}setdesc [text]
+│২ ${prefix}group [option]
+│২ ${prefix}editinfo [option]
+│২ ${prefix}add @user
+│২ ${prefix}kick @user
+│২ ${prefix}hidetag [text]
+│২ ${prefix}tagall [text]
+│২ ${prefix}totag [reply]
+│২ ${prefix}antilink [on/off]
+│২ ${prefix}mute [on/off]
+│২ ${prefix}promote @user
+│২ ${prefix}demote @user
+│২ ${prefix}vote [text]
+│২ ${prefix}devote
+│২ ${prefix}upvote
+│২ ${prefix}cekvote
+│২ ${prefix}hapusvote
 │
 └───────•
 
@@ -3108,12 +3108,12 @@ let capt = `⭔ Title: ${judul}
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://youtu.be/xvFZjo5PgG0'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: 'http://wa.me/6288902229533'
                                 }
                             }, {
                                 quickReplyButton: {
