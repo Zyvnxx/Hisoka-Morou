@@ -2814,73 +2814,66 @@ let capt = `⭔ Title: ${judul}
 
 ┌──• *𝐖𝐄𝐁𝐙𝐎𝐍𝐄 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}playstore
-│⭔ ${prefix}gsmarena
-│⭔ ${prefix}jadwalbioskop
-│⭔ ${prefix}nowplayingbioskop
-│⭔ ${prefix}aminio
-│⭔ ${prefix}wattpad
-│⭔ ${prefix}webtoons
-│⭔ ${prefix}drakor
+│২ ${prefix}playstore
+│২ ${prefix}gsmarena
+│২ ${prefix}jadwalbioskop
+│২ ${prefix}nowplayingbioskop
+│২ ${prefix}aminio
+│২ ${prefix}wattpad
+│২ ${prefix}webtoons
+│২ ${prefix}drakor
 │
 └───────•
 
 
 ┌──• *𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}tiktoknowm [url]
-│⭔ ${prefix}tiktokwm [url]
-│⭔ ${prefix}tiktokmp3 [url]
-│⭔ ${prefix}instagram [url]
-│⭔ ${prefix}twitter [url]
-│⭔ ${prefix}twittermp3 [url]
-│⭔ ${prefix}facebook [url]
-│⭔ ${prefix}pinterestdl [url]
-│⭔ ${prefix}ytmp3 [url]
-│⭔ ${prefix}ytmp4 [url]
-│⭔ ${prefix}getmusic [query]
-│⭔ ${prefix}getvideo [query]
-│⭔ ${prefix}umma [url]
-│⭔ ${prefix}joox [query]
-│⭔ ${prefix}soundcloud [url]
+│২ ${prefix}tiktoknowm [url]
+│২ ${prefix}tiktokwm [url]
+│২ ${prefix}tiktokmp3 [url]
+│২ ${prefix}instagram [url]
+│২ ${prefix}twitter [url]
+│২ ${prefix}twittermp3 [url]
+│২ ${prefix}facebook [url]
+│২ ${prefix}pinterestdl [url]
+│২ ${prefix}ytmp3 [url]
+│২ ${prefix}ytmp4 [url]
+│২ ${prefix}getmusic [query]
+│২ ${prefix}getvideo [query]
+│২ ${prefix}umma [url]
+│২ ${prefix}joox [query]
+│২ ${prefix}soundcloud [url]
 │
 └───────•
 
 ┌──• *𝐒𝐄𝐀𝐑𝐂𝐇 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}play [query]
-│⭔ ${prefix}yts [query]
-│⭔ ${prefix}google [query]
-│⭔ ${prefix}gimage [query]
-│⭔ ${prefix}pinterest [query]
-│⭔ ${prefix}wallpaper [query]
-│⭔ ${prefix}wikimedia [query]
-│⭔ ${prefix}ytsearch [query]
-│⭔ ${prefix}ringtone [query]
-│⭔ ${prefix}stalk [option] [query]
+│২ ${prefix}play [query]
+│২ ${prefix}yts [query]
+│২ ${prefix}google [query]
+│২ ${prefix}gimage [query]
+│২ ${prefix}pinterest [query]
+│২ ${prefix}wallpaper [query]
+│২ ${prefix}wikimedia [query]
+│২ ${prefix}ytsearch [query]
+│২ ${prefix}ringtone [query]
+│২ ${prefix}stalk [option] [query]
 │
 └───────•
 
 ┌──• *𝐑𝐀𝐍𝐃𝐎𝐌 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}coffe
-│⭔ ${prefix}quotesanime
-│⭔ ${prefix}motivasi
-│⭔ ${prefix}dilanquote
-│⭔ ${prefix}bucinquote
-│⭔ ${prefix}katasenja
-│⭔ ${prefix}puisi
-│⭔ ${prefix}couple
-│⭔ ${prefix}anime
-│⭔ ${prefix}waifu
-│⭔ ${prefix}husbu
-│⭔ ${prefix}neko
-│⭔ ${prefix}shinobu
-│⭔ ${prefix}waifus (nsfw)
-│⭔ ${prefix}nekos (nsfw)
-│⭔ ${prefix}trap (nsfw)
-│⭔ ${prefix}blowjob (nsfw)
-│
+│২ ${prefix}coffe
+│২ ${prefix}quotesanime
+│২ ${prefix}motivasi
+│২ ${prefix}dilanquote
+│২ ${prefix}bucinquote
+│২ ${prefix}katasenja
+│২ ${prefix}puisi
+│২ ${prefix}couple
+│২ ${prefix}anime
+│২ ${prefix}waifu
+│২ ${prefix}husbu
 └───────•
 
 ┌──• *TEXT PRO MENU*
@@ -3044,65 +3037,65 @@ let capt = `⭔ Title: ${judul}
 
 ┌──• *DATABASE MENU*
 │
-│⭔ ${prefix}setcmd
-│⭔ ${prefix}listcmd
-│⭔ ${prefix}delcmd
-│⭔ ${prefix}lockcmd
-│⭔ ${prefix}addmsg
-│⭔ ${prefix}listmsg
-│⭔ ${prefix}getmsg
-│⭔ ${prefix}delmsg
+│২ ${prefix}setcmd
+│২ ${prefix}listcmd
+│২ ${prefix}delcmd
+│২ ${prefix}lockcmd
+│২ ${prefix}addmsg
+│২ ${prefix}listmsg
+│২ ${prefix}getmsg
+│২ ${prefix}delmsg
 │
 └───────•
 
 ┌──• *ANONYMOUS MENU*
 │
-│⭔ ${prefix}anonymous
-│⭔ ${prefix}start
-│⭔ ${prefix}next
-│⭔ ${prefix}keluar
+│২ ${prefix}anonymous
+│২ ${prefix}start
+│২ ${prefix}next
+│২ ${prefix}keluar
 │
 └───────•
 
 ┌──• *ISLAMIC MENU*
 │
-│⭔ ${prefix}iqra
-│⭔ ${prefix}hadist
-│⭔ ${prefix}alquran
-│⭔ ${prefix}juzamma
-│⭔ ${prefix}tafsirsurah
+│২ ${prefix}iqra
+│২ ${prefix}hadist
+│২ ${prefix}alquran
+│২ ${prefix}juzamma
+│২ ${prefix}tafsirsurah
 │
 └───────•
 
 ┌──• *VOICE CHANGER*
 │
-│⭔ ${prefix}bass
-│⭔ ${prefix}blown
-│⭔ ${prefix}deep
-│⭔ ${prefix}earrape
-│⭔ ${prefix}fast
-│⭔ ${prefix}fat
-│⭔ ${prefix}nightcore
-│⭔ ${prefix}reverse
-│⭔ ${prefix}robot
-│⭔ ${prefix}slow
-│⭔ ${prefix}tupai
+│২ ${prefix}bass
+│২ ${prefix}blown
+│২ ${prefix}deep
+│২ ${prefix}earrape
+│২ ${prefix}fast
+│২ ${prefix}fat
+│২ ${prefix}nightcore
+│২ ${prefix}reverse
+│২ ${prefix}robot
+│২ ${prefix}slow
+│২ ${prefix}tupai
 │
 └───────•
 
 ┌──• *𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔*
 │
-│⭔ ${prefix}react [emoji]
-│⭔ ${prefix}chat [option]
-│⭔ ${prefix}join [link]
-│⭔ ${prefix}leave
-│⭔ ${prefix}block @user
-│⭔ ${prefix}unblock @user
-│⭔ ${prefix}bcgroup [text]
-│⭔ ${prefix}bcall [text]
-│⭔ ${prefix}setppbot [image]
-│⭔ ${prefix}setexif
-│⭔ ${prefix}setmenu [option]
+│২ ${prefix}react [emoji]
+│২ ${prefix}chat [option]
+│২ ${prefix}join [link]
+│২ ${prefix}leave
+│২ ${prefix}block @user
+│২ ${prefix}unblock @user
+│২ ${prefix}bcgroup [text]
+│২ ${prefix}bcall [text]
+│২ ${prefix}setppbot [image]
+│২ ${prefix}setexif
+│২ ${prefix}setmenu [option]
 │
 └───────•`
                 let btn = [{
